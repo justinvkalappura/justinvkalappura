@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 
-<p align="left"> <img
+<p align="right"> <img
 src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"
 alt="jobintj24" /> </p>
 
