@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm justin v kalappura</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="500"
-src="https://www.lambdatest.com/resources/images/news24.gif">
+
 
 <p align="left"> <img
 src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"
