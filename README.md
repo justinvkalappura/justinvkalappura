@@ -4,7 +4,7 @@
 src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img
-src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat"
+src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"
 alt="jobintj24" /> </p>
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
