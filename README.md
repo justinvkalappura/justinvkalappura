@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm justin v kalappura</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-
+<div>
 <p align="right"> <img
 src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"
-alt="jobintj24" /> </p>
+alt="jobintj24" /> </p></div>
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
 
