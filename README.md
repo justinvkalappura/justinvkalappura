@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm justin v kalappura</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<div>
-<p align="right"> <img
-src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"
-alt="jobintj24" /> </p></div>
+<img align="right" alt="coding" width="500"
+src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif">
+
+<p align="left"> <img
+src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat"
+alt="jobintj24" /> </p>
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
 
