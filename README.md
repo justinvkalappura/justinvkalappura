@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JOBINTJ</h1>
+<h1 align="center">Hi 👋, I'm justin v kalappura</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="coding" width="500"
 src="https://www.lambdatest.com/resources/images/news24.gif">
@@ -11,26 +11,22 @@ alt="jobintj24" /> </p>
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Android,Django**
-
-- 📫 How to reach me **jobintjohnson2000@gmail.com**
-
-- ⚡ Fun fact **I Think I am Funny**
+- 📫 How to reach me **justin150598@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jobin-t-j"
+<a href="https://www.linkedin.com/in/justinvkalappura/"
 target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 alt="www.linkedin.com/in/jobin-t-j" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/j_ob_in_tj"
+<a href="https://instagram.com/https://instagram.com/justinvkalappura"
 target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="https://instagram.com/j_ob_in_tj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/jobintj2023b"
+alt="https://instagram.com/justinvkalappura" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/justinvkalappura"
 target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-alt="https://www.hackerrank.com/jobintj2023b" height="30" width="40"
+alt="https://www.hackerrank.com/justinvkalappura" height="30" width="40"
 /></a>
 </p>
 
