@@ -6,7 +6,7 @@
 src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif">
 
 <p align="left"> <img
-src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat"
+src="https://komarev.com/ghpvc/?username=justinvkalappura&label=Profile%20views&color=0e75b6&style=flat"
 alt="jobintj24" /> </p>
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
@@ -20,7 +20,7 @@ alt="jobintj24" /> </p>
 <a href="https://www.linkedin.com/in/justinvkalappura/"
 target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="www.linkedin.com/in/jobin-t-j" height="30" width="40" /></a>
+alt="www.linkedin.com/in/justinvkalappura" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/justinvkalappura"
 target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -88,7 +88,7 @@ src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
 alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p><img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=jobintj24&show_icons=true&locale=en&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=justinvkalappura&show_icons=true&locale=en&layout=compact"
 alt="justinvkalappura" /></p>
 
 <p>&nbsp;<img align="center"
@@ -96,5 +96,5 @@ src="https://github-readme-stats.vercel.app/api?username=justinvkalappura&show_i
 alt="justinvkalappura" /></p>
 
 <p><img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=jobintj24&"
+src="https://github-readme-streak-stats.herokuapp.com/?user=justinvkalappura&"
 alt="justinvkalappura" /></p>
