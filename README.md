@@ -92,7 +92,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=jobintj24&sho
 alt="justinvkalappura" /></p>
 
 <p>&nbsp;<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=jobintj24&show_icons=true&locale=en"
+src="https://github-readme-stats.vercel.app/api?username=justinvkalappura&show_icons=true&locale=en"
 alt="justinvkalappura" /></p>
 
 <p><img align="center"
