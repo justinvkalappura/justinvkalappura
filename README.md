@@ -9,9 +9,9 @@ src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light
 src="https://komarev.com/ghpvc/?username=justinvkalappura&label=Profile%20views&color=0e75b6&style=flat"
 alt="jobintj24" /> </p>
 
-- 🔭 I’m currently pursuing mca at **Amal Jyothi College of Engineering**
+- 🔭 Pursuing mca at **Amal Jyothi College of Engineering**
 
-- 🌱 I’m currently working a project on **Django**
+- 🌱 Working on a project in **Django**
 
 - 📫 How to reach me **justin150598@gmail.com**
 
