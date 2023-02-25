@@ -13,7 +13,7 @@ alt="jobintj24" /> </p>
 
 - 🌱 Working on a project in **Django**
 
-- 📫 How to reach me **justin150598@gmail.com**
+- 📫 Reach me at **justin150598@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
